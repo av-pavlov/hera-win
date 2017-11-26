@@ -1,4 +1,5 @@
 #include <iomanip>
+#define VERBOSE_BOTTLENECK
 #include "bottleneck.h"
 
 // any container of pairs of doubles can be used,
@@ -61,7 +62,7 @@ int main(int argc, char* argv[])
 #endif
         res = geom_bt::bottleneckDistExact(diagramA, diagramB, decPrecision);
     }
-    std::cout << std::setprecision(15) << res << std::endl;
+    std::cout << std::scientific << std::setprecision(15) << res << std::endl;
 
     // Alternative could be to construct DiagramPointSet
     // using the constructor with iterators.

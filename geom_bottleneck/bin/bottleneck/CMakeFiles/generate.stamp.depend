@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/pav/Math/persdiagdist/hera/geom_bottleneck/bottleneck/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.10/Modules/GenerateExportHeader.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/exportheader.cmake.in

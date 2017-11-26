@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\bottleneck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\bound_match.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\neighb_oracle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\basic_defs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\ANN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\bd_fix_rad_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\bd_pr_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\bd_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\bd_tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\kd_dump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\kd_fix_rad_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\kd_pr_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\kd_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\kd_split.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\kd_tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\src\ann\kd_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\pav\Math\persdiagdist\hera\geom_bottleneck\bottleneck\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AC6808FE-0984-338E-912E-3D786BBF36D7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

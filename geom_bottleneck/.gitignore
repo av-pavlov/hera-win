@@ -12,7 +12,6 @@
 *.obj
 *.idb
 *.pdb
-*.exe
 *.ilk
 *.user
 *.out
@@ -26,10 +25,8 @@
 *.d
 *.dll
 *.lib
-*.exe
 makeout
 /MS_Win32
-/bin
 bottleneck/build/
 ann/lib
 ann/bin
